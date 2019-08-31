@@ -12,5 +12,5 @@ class Dog
     @this_dogs_name = dog_new_name
   end
   
-  
+  def breed=(dog_breed)
 end
