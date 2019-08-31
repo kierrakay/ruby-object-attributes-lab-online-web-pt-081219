@@ -8,4 +8,6 @@ class Dog
     @this_dogs_name 
   end
   
+  def name=(dog_new_name)
+    
 end
